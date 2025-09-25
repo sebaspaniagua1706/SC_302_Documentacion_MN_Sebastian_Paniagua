@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # "Esta es mi primera practica con GitHub." 
 =======
 # SC_302_Documentacion_MN_Sebastian_Paniagua"Esta es mi primera practica con GitHub." 
